@@ -14,7 +14,7 @@ jobs:
           ado_token: "${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}"
           github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
           ado_organization: "ssatisha"
-          ado_project: "azureBoards-demo"
+          ado_project: "azureDemo"
           ado_wit: "User Story"
           ado_new_state: "New"
           ado_active_state: "Active"
